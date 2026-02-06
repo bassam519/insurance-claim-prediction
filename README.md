@@ -249,5 +249,3 @@ Ready for deployment and reuse 🚀
 * Production-style ML workflow 🏗️
 
 ---
-
-**Author:** CS & AI Student — Business Intelligence Project
