@@ -185,9 +185,7 @@ Models were evaluated using:
 
 Fill with your notebook results:
 
-* Accuracy: **XX%**
-* F1 Score: **XX**
-* ROC-AUC: **XX**
+* Accuracy: 84.10%
 
 Confusion matrix visualization used for detailed error analysis 🔍
 
